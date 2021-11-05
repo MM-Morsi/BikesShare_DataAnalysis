@@ -6,3 +6,9 @@ In this project we work on a bike hsare database consists of three files, repres
 * washington 
 
 The code prints out some basic stats based on simple user inputs and preferences 
+
+## dependancies 
+* time
+* datetime
+* pandas
+* numpy
